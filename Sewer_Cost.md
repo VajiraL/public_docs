@@ -80,5 +80,9 @@ QGIS3 is used.
 1. Create a regularly spaced (30 m) grid of points
 2. Use QNEAT3 network analysis plugin to generate the iso-distance layer, using OSM roads as the network
 
+**Results**
 
+$R^2$ is very poor
+
+### Approach 2 | Decision Tree Regression
 
